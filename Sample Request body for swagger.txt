@@ -1,0 +1,94 @@
+
+3.Enter an income
+
+{
+  "amount": 15000.50,
+  "description": " Salary",
+  "date": "2025-08-25",
+  "category": "Salary"
+}
+
+4.Enter an expense
+
+{
+  "amount": 5000,
+  "category": "Beauty Products",
+  "description": "cosmetics",
+  "date": "2025-08-25"
+}
+
+
+5.Enter an expense category
+
+{
+  "name": "Beauty Products"
+}
+
+
+
+
+6.View monthly statement-get method
+
+
+7..Get current balance-get method
+
+8.Update an expense
+
+
+{
+  "title": " Shopping",
+  "amount": 3500.75,
+  "category": "Beauty Products",
+  "description": "cosmetics",
+  "date": "2025-08-25"
+}
+
+9.Update an income
+
+{
+  "source": "Salary",
+  "amount": 10000.00,
+  "category": "Job",
+  "date": "2025-08-25"
+}
+
+10.Generate Expense report
+   Weekly report-query params year and week(iso based)
+   Monthly report-year and month in number
+   Yearly report-just year as query param 2025
+
+
+11.Report by category query params  start date and end date
+
+
+12.Design a budget 
+ {
+  "year": 2025,
+  "month": 8,
+  "category": "food",
+  "amount": 15000.0
+}
+
+
+
+13.Compare against budget
+query params year and month
+
+
+
+14.Logout
+
+
+
+15.Delete Account
+
+
+
+
+
+
+
+
+
+
+
