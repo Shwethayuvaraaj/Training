@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "4b30443b-5b5c-4137-9bff-6b36da8276fa",
+		"name": "Ecommerce Mini Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45398614",
+		"_collection_link": "https://shwethayuvaraaj.postman.co/workspace/Shwetha-yuvaraaj's-Workspace~bed7f635-9da5-4756-817e-7c2f1e2b2b36/collection/45398614-4b30443b-5b5c-4137-9bff-6b36da8276fa?action=share&source=collection_link&creator=45398614"
+	},
+	"item": [
+		{
+			"name": "Add Product",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "View Products List",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Add Product to cart",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "View Products in customer's shopping cart",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Place Order with Address",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Order History of customer",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Order Information",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
